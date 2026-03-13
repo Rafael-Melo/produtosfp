@@ -7,8 +7,8 @@ import pandas as pd
 session = requests.session()
 
 payload = {
-    'USE_Username': config('GF_USERNAME'),
-    'USE_Password': config('GF_PASSWORD')
+    'USE_Username': config('CD_USERNAME'),
+    'USE_Password': config('CD_PASSWORD')
 }
 
 urls_fp_gf = {
