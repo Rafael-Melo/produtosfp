@@ -1,0 +1,12 @@
+venv/
+.venv
+.env
+build/
+dist/
+requirements.txt
+config.ini
+de.properties
+excecoes_clientes.txt
+main.spec
+teste*
+test*
